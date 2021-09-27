@@ -4,11 +4,14 @@ Application Name:
 Instagram
 Use case(s):  
 To look and find a particular message on Instagram Messenger.
+
 Scenario(s): 
 1.	Want to add search feature that enables user to find a particular message in the chat.
+
 Bare Minimum Inputs:  
 1.	Select either the entire chat list or specific user chat
 2.	Select the search option on top right corner
 3.	In the input field enter required text to be searched.
+
 Output:  
 All the occurrences of the keyword will appear on the screen highlighted.
